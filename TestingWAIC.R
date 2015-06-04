@@ -1,5 +1,5 @@
 # Read data
-setwd("C:\\Users\\Dillon\\Box Sync\\GitHub\\DavisBiketoSchool")
+setwd("C:\\Users\\Dillon\\Box Sync\\GitHub\\rethinkingWAICtest")
 d <- read.csv('bike_data.csv')
 
 library(rethinking)
